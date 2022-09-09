@@ -1,0 +1,11 @@
+Formula General
+
+https://snack.expo.dev/@bryancrespin450/cdc0ed
+
+Salario Neto
+
+https://snack.expo.dev/@bryancrespin450/810595
+
+Numero mayor o meno
+
+https://snack.expo.dev/@bryancrespin450/b43497
